@@ -1,0 +1,23 @@
+{
+  "title": "Ubuntu 20.04",
+  "description": "Entorno de propósito general",
+  "details": {
+    "intro":{
+	"background": "setup.sh",
+	"code": "foreground.sh"
+    },
+    "steps": [
+      {
+        "title": "Ubuntu 20.04"
+      }
+    ]
+  },
+  "environment": {
+    "hidesidebar": true,
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
